@@ -22,5 +22,18 @@
   "files": [
     "src",
     "dist"
-  ]
+  ],
+  "description": "Simple Avatar component that you can customize whatever you like with tailwind classes!",
+  "version": "0.0.1",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fouita/svelte-tw-avatar.git"
+  },
+  "author": "fouita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fouita/svelte-tw-avatar/issues"
+  },
+  "homepage": "https://github.com/fouita/svelte-tw-avatar#readme"
 }
