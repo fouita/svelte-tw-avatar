@@ -5,7 +5,7 @@ Simple Avatar component that you can customize whatever you like with tailwind c
 # install
 
 ```bash
-    $npm i @fouita/avatar
+    $npm i @fouita/avatar -D
 ```
 
 # Usage
@@ -174,4 +174,4 @@ Custom text/icon you can use
 
 ## About
 
-[Fouita : UI framework for svelte + tailwind components](fouita.com)
+[Fouita : UI framework for svelte + tailwind components](https://fouita.com)
