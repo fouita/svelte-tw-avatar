@@ -1,6 +1,6 @@
 # Fouita (svelte + tailwind) Avatar component
 
-Simple Avatar component that you can customize whatever you like with tailwind classes!
+Simple Avatar component that you can customize with tailwind classes!
 
 # install
 
